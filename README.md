@@ -8,6 +8,6 @@ How to use: EPD_Init-->EGuiInit-->EGuiUpdate
 
 Changelog:
 
-b0.1.1: Apr.02.2019 Fixed struct error 
+b0.1.1: Apr.02.2019 Fixed struct error   
 b0.1.0: Mar.27.2019 First demo 
         
